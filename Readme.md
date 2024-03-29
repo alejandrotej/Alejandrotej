@@ -1,8 +1,8 @@
-# 🐈 Hi there, I'm Mathias Gomez
-A passionate developer from Peru.
+# 👋🏽 Saludos, Soy Alejandro Tejedor.
+Un desarrollador y diseñador autodidacta de España.
 
-- 🥳 15 years
-- 🎧 A big music fan
-- 🖊️ TypeScript enjoyer
-- 🤖 Discord Bot and Web developer
-- 🧠 Freelancer
+- 🥳 15 Años.
+- 🎧 Un fan de la música.
+- 🖊️ Fan de TypeScript.
+- 🤖 Desarrollador de Webs y Bots de Discord.
+- 🧠 Freelancer.
